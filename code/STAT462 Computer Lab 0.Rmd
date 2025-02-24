@@ -38,7 +38,9 @@ Sys.setenv(LANG = "en")
 # Introduction
 
 ::: boxNote
-You are expected to know the majority of the content listed below before you start the core of this course, but do not worry if you find some parts are hard to understand, ask our friendly tutors and they are happy to explain them to you.
+You are expected to know the majority of the content listed below before you start the core of this course
+
+, but do not worry if you find some parts are hard to understand, ask our friendly tutors and they are happy to explain them to you.
 :::
 
 If you are looking for some materials for beginners (or even advanced level), those are really good starting points:
