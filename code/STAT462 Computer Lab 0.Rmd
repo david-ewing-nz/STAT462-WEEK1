@@ -147,6 +147,7 @@ The easiest way to install a package is to let RStudio do it for you. Locate the
 Doing the same thing through the console involves the `install.packages()` function.
 
 ```{r eval=TRUE, exec=FALSE, include=FALSE}
+
 install.packages("tidyverse")
 ```
 
